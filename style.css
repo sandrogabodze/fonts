@@ -1,0 +1,33 @@
+@font-face {
+   font-family: "chemi fonti";
+   src: url("fonts/OldStandardTT-Bold.ttf");
+}
+
+p {
+    font-family: "chemi fonti";
+    font-weight: 700;
+    font-size: 20px;
+}
+
+@font-face {
+    font-family: "chemi fonti 2";
+    src: url("fonts/OldStandardTT-Regular.ttf");
+ }
+
+ .p-tag {
+    font-family: "chemi fonti 2";
+    font-weight: 400;
+    font-size: 16px;
+ }
+
+ @font-face {
+    font-family: "chemi fonti 3";
+    src: url("fonts/OldStandardTT-Italic.ttf");
+ }
+
+ .p-tag2 {
+    font-family: "chemi fonti 3";
+    font-weight: 400;
+    font-size: 16px;
+ }
+
